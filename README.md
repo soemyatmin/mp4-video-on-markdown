@@ -28,8 +28,5 @@ How to upload and embed mp4 video file
 <li>Select "Commit changes" button to reflect changes.</li>
 </ol>
 <div><video controls src="https://user-images.githubusercontent.com/20723919/120432939-99194880-c3b5-11eb-8eea-f4aa424d479f.MP4" muted="false"></video></div>
-<div><video controls src="[https://user-images.githubusercontent.com/20723919/120432939-99194880-c3b5-11eb-8eea-f4aa424d479f.MP4](https://github.com/soemyatmin/mp4-video-on-markdown/blob/b7c1b599cf3b2f1997551f345fe11b74ff1ed1b6/FullHD_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%AF%8C%E5%A3%AB-%E7%BE%8E%E6%B5%9C%E5%A4%A7%E6%A9%8B_2021-02-21.MP4)https://github.com/soemyatmin/mp4-video-on-markdown/blob/b7c1b599cf3b2f1997551f345fe11b74ff1ed1b6/FullHD_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%AF%8C%E5%A3%AB-%E7%BE%8E%E6%B5%9C%E5%A4%A7%E6%A9%8B_2021-02-21.MP4" muted="false"></video></div>
-
-
 
 <div><video controls src="https://user-images.githubusercontent.com/20723919/123130864-1b160200-d488-11eb-8d8c-a32bc44dac6e.mp4" muted="false"></video></div>
